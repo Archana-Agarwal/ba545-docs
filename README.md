@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BA 545 Course Project 1: Advanced Preparation of Financial Data
 ## Spring 2020
 
@@ -86,3 +87,19 @@ Following tasks are normally conduct in data preparation phase. __Not all steps 
 - If you decide to include/exclude certain variable(s)/observation(s) from the dataset, you will need to __get approved from Dr. Tao__;
 - You will need to report your __workload allocation__ (within the group) in the Milestone report and the final report – non-equal workload assignment will lead to the penalty to the whole group;
 - If cross-group collaboration is identified, __both groups will be disqualified from the competition__ (result in 0 points for this part of the course).
+=======
+# BA 545 Course Documents
+_Spring 2020_
+
+## Table of Contents
++ [Syllabus](https://github.com/DrJieTao/ba545-docs/blob/master/syllabus.md)
++ [Agendas](https://github.com/DrJieTao/ba545-docs/tree/master/Agendas)
++ Lecture Slides (on Google Docs, can be found in each week's agenda)
++ In Class Tutorials (Jupyter Notebooks, can be found using each week's link to Github Classroom)
++ [Competition#1](https://github.com/DrJieTao/ba545-docs/tree/master/competition1)
++ [Competition#2](https://github.com/DrJieTao/ba545-docs/tree/master/competition2)
++ Downloads (To Be Updated)
++ [JuoyterHub User Guide](https://github.com/DrJieTao/ba545-docs/blob/master/1_28_2019%20JupyterHub-Guide.pdf)
+  + Special thanks to Ms. Pu for preparing this document. If you have any technical issues, please contact [Ms. Pu](mailto:yue.pu@student.fairfield.edu).
+
+>>>>>>> 3b9f8be75e340b002afcc4724b810fc9e158554d
